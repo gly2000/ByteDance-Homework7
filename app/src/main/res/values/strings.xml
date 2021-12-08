@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">camera</string>
+    <string name="please_enter_your_photo_name">Please enter your photo name</string>
+</resources>
